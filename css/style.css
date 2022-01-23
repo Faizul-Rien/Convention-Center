@@ -4,3 +4,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.bg-btn{
+    background-color: #F496D1;
+}
+.card-color{
+    background-color:  #3F87F5;
+    color: white;
+}
